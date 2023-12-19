@@ -6,6 +6,7 @@ We used the data taken from the [3DIRCADb-01 database of liver segmentation imag
 
 # Results
 The left side shows the segmentation results of our model and the right side shows the results of expert manual segmentation.
+
 ![result1](Figures/1.png "")
 ![result2](Figures/2.png "")
 ![result3](Figures/3.png "")
